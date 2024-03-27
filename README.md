@@ -18,6 +18,6 @@ chmod +x /usr/local/bin/tessocr
 
 ### Usage
 
-In this [video](tessocr.mov)
+In this [video](tessocr.mp4)
 
 
