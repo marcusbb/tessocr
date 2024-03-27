@@ -12,8 +12,12 @@ brew install pngpaste
 
 ### Installation
 ```
-curl https://github.com/marcusbb/tessocr/blob/master/tsocr.sh -O /usr/local/bin/tessocr.sh
+curl -o /usr/local/bin/tessocr https://raw.githubusercontent.com/marcusbb/tessocr/master/tsocr.sh
+chmod +x /usr/local/bin/tessocr
 ```
 
 ### Usage
+
+In this [video](tessocr.mov)
+
 
