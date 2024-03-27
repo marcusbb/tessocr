@@ -21,3 +21,8 @@ chmod +x /usr/local/bin/tessocr
 In this [video](tessocr.mp4)
 
 
+
+
+https://github.com/marcusbb/tessocr/assets/3910666/dbd7fe48-407b-486b-ad28-bc2f49c50034
+
+
