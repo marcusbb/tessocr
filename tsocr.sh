@@ -8,7 +8,7 @@ fi
 
 
 temp_dir=$(mktemp -d)
-echo $temp_dir
+#echo $temp_dir
 # Check if the clipboard contains an image and that pngpaste is also installed
 if command -v pngpaste &> /dev/null; then
     pngpaste  $temp_dir/image.png
